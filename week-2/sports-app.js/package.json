@@ -1,0 +1,15 @@
+{
+  "name": "buwebdev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TiaNiecia Mosley Butler",
+  "license": "MIT",
+  "dependencies": {
+    "pino": "^8.11.0",
+    "moment":"^2.27-2 - 2.29.0"
+  }
+}
